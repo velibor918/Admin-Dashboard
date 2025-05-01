@@ -227,6 +227,8 @@ summary {
     grid-row: 1 / -1;
     color: white;
     background-color: #1992d4;
+    padding: 20px;
+    display: grid;
 }
 
 .sidebar a {

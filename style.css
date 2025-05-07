@@ -226,9 +226,9 @@ summary {
     grid-row: 1 / -1;
     color: white;
     background-color: #1992d4;
-    padding: 20px;
+    /* padding: 20px; */
     display: grid;
-	grid-template-columns: 30px 5fr;
+	grid-template-columns: 20px 1fr;
 	grid-template-rows: 80px 50px min-content 50px min-content 1fr;
 	/* font-weight: bold; */
 }

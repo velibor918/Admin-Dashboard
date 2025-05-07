@@ -216,7 +216,7 @@ summary {
 
 .container {
     display: grid;
-    grid-template-columns: 1fr 5fr;
+    grid-template-columns: 1fr 5.5fr;
     grid-template-rows: 100px 150px 1fr;
     height: 100vh;
     /* border: 1px solid black; */
@@ -227,7 +227,7 @@ summary {
     color: white;
     background-color: #1992d4;
     display: grid;
-	grid-template-columns: 20px 1fr;
+	grid-template-columns: 70px 1fr;
 	grid-template-rows: 80px 50px min-content 50px min-content 1fr;
 }
 

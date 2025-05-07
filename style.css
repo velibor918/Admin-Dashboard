@@ -234,6 +234,8 @@ summary {
 }
 
 .nav {
+	display: grid;
+	gap: 15px;
 	grid-row: 3 / 4;
 }
 

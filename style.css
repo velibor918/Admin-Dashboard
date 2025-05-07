@@ -229,7 +229,7 @@ summary {
     padding: 20px;
     display: grid;
 	grid-template-columns: 30px 5fr;
-	grid-template-rows: 80px 50px min-content 50px 1fr;
+	grid-template-rows: 80px 50px min-content 50px min-content 1fr;
 	/* font-weight: bold; */
 }
 
@@ -240,6 +240,8 @@ summary {
 }
 
 .branding {
+	display: grid;
+	gap: 15px;
 	grid-row: 5;
 }
 

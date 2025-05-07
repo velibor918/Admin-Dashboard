@@ -237,12 +237,14 @@ summary {
 	display: grid;
 	gap: 15px;
 	grid-row: 3 / 4;
+	grid-column: 2;
 }
 
 .branding {
 	display: grid;
 	gap: 15px;
 	grid-row: 5;
+	grid-column: 2;
 }
 
 .sidebar a {
@@ -262,6 +264,7 @@ summary {
 ul,
 li {
     list-style-type: none;
+	padding: 0;
 }
 
 .header {

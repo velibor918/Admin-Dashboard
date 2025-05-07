@@ -228,10 +228,16 @@ summary {
     background-color: #1992d4;
     padding: 20px;
     display: grid;
+	grid-template-rows: 1fr 2fr 4fr;
 }
 
 .sidebar a {
     color: white;
+	text-decoration: none;
+}
+
+.sidebar h2 {
+	font-size: 2rem;
 }
 
 ul,

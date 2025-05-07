@@ -229,7 +229,8 @@ summary {
     padding: 20px;
     display: grid;
 	grid-template-columns: 30px 5fr;
-	grid-template-rows: 80px 50px 1fr 1fr;
+	grid-template-rows: 80px 50px min-content 50px 1fr;
+	/* font-weight: bold; */
 }
 
 .nav {
@@ -237,7 +238,7 @@ summary {
 }
 
 .branding {
-	grid-row: 4;
+	grid-row: 5;
 }
 
 .sidebar a {
@@ -247,6 +248,11 @@ summary {
 
 .sidebar h2 {
 	font-size: 2rem;
+	grid-column: 2;
+}
+
+.sidebar li {
+	font-size: 1.5rem;
 }
 
 ul,

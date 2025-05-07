@@ -11,19 +11,18 @@
 4. Use a more readable tab size (opinionated).
 */
 
-:root {
-    --system-ui:(system-ui,
-    'Segoe UI',
-    Roboto,
-    Helvetica,
-    Arial,
-    sans-serif,
-    'Apple Color Emoji',
-    'Segoe UI Emoji';)
-}
 
 html {
-	font-family: var(--system-ui);
+	font-family:
+	"Roboto",
+	system-ui,
+	'Segoe UI',
+	Roboto,
+	Helvetica,
+	Arial,
+	sans-serif,
+	'Apple Color Emoji',
+	'Segoe UI Emoji';
 		 /* 1 */
 	line-height: 1.15; /* 2 */
 	-webkit-text-size-adjust: 100%; /* 3 */

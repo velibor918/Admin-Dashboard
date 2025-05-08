@@ -256,6 +256,10 @@ summary {
 	grid-column: 2;
 }
 
+.sidebar img {
+	filter: invert(100%) sepia(0%) saturate(24%) hue-rotate(114deg) brightness(108%) contrast(108%);
+}
+
 .sidebar li {
 	font-size: 1.5rem;
 }

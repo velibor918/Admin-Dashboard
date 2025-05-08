@@ -229,6 +229,7 @@ summary {
     display: grid;
 	grid-template-columns: 70px 1fr;
 	grid-template-rows: 80px 50px min-content 50px min-content 1fr;
+	align-items: center;
 }
 
 .nav {
@@ -254,6 +255,10 @@ summary {
 .sidebar h2 {
 	font-size: 2rem;
 	grid-column: 2;
+}
+
+.dash {
+	height: 3.5rem;
 }
 
 .sidebar img {

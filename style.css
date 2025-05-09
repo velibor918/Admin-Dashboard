@@ -246,6 +246,10 @@ summary {
 	grid-column: 2;
 }
 
+.nav img {
+	height: 1.7rem;
+}
+
 .branding {
 	display: grid;
 	gap: 15px;

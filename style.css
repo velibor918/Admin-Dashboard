@@ -246,6 +246,14 @@ summary {
 	grid-column: 2;
 }
 
+.sidebar a:hover {
+	text-shadow: 0 0 5px #ffffff;
+}
+
+.sidebar a:active {
+	text-shadow: none;
+}
+
 .nav img,
 .branding img {
 	height: 1.7rem;

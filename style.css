@@ -241,6 +241,10 @@ summary {
 	grid-column: 1 / -1;
 }
 
+.nav li {
+	grid-column: 2;
+}
+
 .branding {
 	display: grid;
 	gap: 15px;

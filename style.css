@@ -254,7 +254,7 @@ summary {
 	display: grid;
 	grid-template-columns: 70px 1fr;
 	grid-template-rows: repeat(3, max-content);
-	gap: 15px;
+	gap: 20px 0px;
 	grid-row: 5;
 	grid-column: 1 / -1;
 }

@@ -306,7 +306,7 @@ li {
 
 .first {
 	display: grid;
-	grid-template-columns: 50px 40% 30px 30px 100px;
+	grid-template-columns: 80px 1fr 200px 150px 150px 150px;
 	align-items: center;
 	justify-items: center;
 }

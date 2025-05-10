@@ -305,8 +305,9 @@ li {
 }
 
 .first {
+	gap: 20px;
 	display: grid;
-	grid-template-columns: 80px 1fr 200px 150px 150px 150px;
+	grid-template-columns: 80px 1fr 50px 150px 50px 150px;
 	align-items: center;
 	justify-items: center;
 }
@@ -321,8 +322,7 @@ li {
 }
 
 .first .avatar {
-	justify-self: start;
-	height: 2.5rem;
+	height: 3rem;
 }
 
 .first h5 {

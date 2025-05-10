@@ -311,6 +311,10 @@ li {
 	justify-items: center;
 }
 
+.first input {
+	justify-self: stretch;
+}
+
 .main {
     grid-column: 2;
     grid-row: 3;

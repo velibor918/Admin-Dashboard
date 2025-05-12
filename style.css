@@ -360,6 +360,11 @@ li {
 	font-size: 2rem;
 }
 
+.btns {
+	grid-column: 5;
+	display: grid;
+}
+
 .main {
     grid-column: 2;
     grid-row: 3;

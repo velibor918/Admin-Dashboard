@@ -363,8 +363,7 @@ li {
 .btns {
 	grid-column: 5;
 	display: grid;
-	grid-template-columns: repeat(3, 1fr) 50px;
-	gap: 20px;
+	grid-template-columns: repeat(3, 1fr);
 }
 
 .btns button {

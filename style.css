@@ -337,12 +337,13 @@ li {
 
 .second {
 	display: grid;
-	grid-template-columns: max-content max-content 1fr 1fr;
+	grid-template-columns: 10px max-content max-content 1fr 1fr;
 	align-items: center;
 	gap: 20px;
 }
 
 .second .avatar {
+	grid-column: 2;
 	height: 4.5rem;
 }
 

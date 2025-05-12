@@ -367,6 +367,15 @@ li {
 	gap: 20px;
 }
 
+.btns button {
+	color: white;
+	background-color: #1992d4;
+	border-radius: 30px;
+	border: none;
+	height: 40px;
+	width: 100px;
+}
+
 .main {
     grid-column: 2;
     grid-row: 3;

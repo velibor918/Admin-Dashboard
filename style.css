@@ -347,6 +347,19 @@ li {
 	height: 4.5rem;
 }
 
+.greeting p {
+	margin: 0;
+	font-weight: bold;
+}
+
+.greeting :first-child {
+	font-size: 0.9rem;
+}
+
+.greeting :last-child {
+	font-size: 2rem;
+}
+
 .main {
     grid-column: 2;
     grid-row: 3;

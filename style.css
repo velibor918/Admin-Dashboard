@@ -335,6 +335,12 @@ li {
 	justify-self: start;
 }
 
+.second {
+	display: grid;
+	grid-template-columns: max-content max-content 1fr 1fr;
+	align-items: center;
+}
+
 .second .avatar {
 	height: 4rem;
 }

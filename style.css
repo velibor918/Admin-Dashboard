@@ -315,6 +315,11 @@ li {
 
 .first input {
 	justify-self: stretch;
+	border-radius: 10px;
+	background-color: #e2e8f0;
+	border: none;
+	height: 30%;
+	padding: 10px;
 }
 
 .bell {
@@ -328,14 +333,6 @@ li {
 
 .first h3 {
 	justify-self: start;
-}
-
-.first input {
-	border-radius: 10px;
-	background-color: #e2e8f0;
-	border: none;
-	height: 30%;
-	padding: 10px;
 }
 
 .main {

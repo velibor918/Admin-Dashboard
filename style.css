@@ -217,7 +217,7 @@ summary {
 .container {
     display: grid;
     grid-template-columns: 1fr 5.5fr;
-    grid-template-rows: 80px 150px 1fr;
+    grid-template-rows: 80px 100px 1fr;
     height: 100vh;
     /* border: 1px solid black; */
 }

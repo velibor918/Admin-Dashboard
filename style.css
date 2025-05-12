@@ -335,6 +335,10 @@ li {
 	justify-self: start;
 }
 
+.second .avatar {
+	height: 4rem;
+}
+
 .main {
     grid-column: 2;
     grid-row: 3;

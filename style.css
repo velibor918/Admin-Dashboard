@@ -388,4 +388,5 @@ li {
     grid-row: 3;
 	display: grid;
 	grid-template-columns: 1fr 400px;
+	background-color: #e2e8f0;
 }

@@ -398,7 +398,7 @@ li {
 	grid-template-columns: 1fr 1fr;
 }
 
-.projects h5 {
+.projects h4 {
 	grid-column: 1 / -1;
 	align-self: end;
 	margin: 0;

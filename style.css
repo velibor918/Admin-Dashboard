@@ -407,3 +407,8 @@ li {
 	align-self: end;
 	margin: 0;
 }
+
+.projects .project {
+	background-color: white;
+	display: grid;
+}

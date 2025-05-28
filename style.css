@@ -396,6 +396,8 @@ li {
 .projects {
 	display: grid;
 	grid-template-columns: 1fr 1fr;
+	grid-template-rows: 50px;
+	padding: 15px;
 }
 
 .projects h4 {

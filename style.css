@@ -399,6 +399,7 @@ li {
 	grid-template-columns: repeat(2, minmax(150px, 1fr));
 	grid-template-rows: 50px;
 	padding: 15px;
+	gap: 20px;
 }
 
 .projects h4 {

@@ -386,4 +386,6 @@ li {
 .main {
     grid-column: 2;
     grid-row: 3;
+	display: grid;
+	grid-template-columns: 1fr 400px;
 }

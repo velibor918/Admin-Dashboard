@@ -335,7 +335,7 @@ li {
 	justify-self: start;
 }
 
-.second {
+.header .second {
 	display: grid;
 	grid-template-columns: 10px max-content max-content 1fr 1fr;
 	align-items: center;

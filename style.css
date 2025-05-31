@@ -421,3 +421,9 @@ li {
 	grid-template-columns: 50px 1fr;
 	grid-template-rows: repeat(3, 1fr);
 }
+
+.project-style {
+	background-color: orange;
+	grid-column: 1;
+	grid-row: 1 / -1;
+}

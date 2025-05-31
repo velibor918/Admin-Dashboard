@@ -436,3 +436,22 @@ li {
 .project-text {
 	font-size: 1rem;
 }
+
+.icons {
+	display: grid;
+	grid-template-columns: 1fr repeat(3, 50px) 10px;
+	align-items: center;
+	justify-items: center;
+}
+
+.fork {
+	grid-column: -3;
+}
+
+.eye {
+	grid-column: -4;
+}
+
+.star {
+	grid-column: -5;
+}

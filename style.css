@@ -416,7 +416,7 @@ li {
 .projects .project {
 	background-color: white;
 	display: grid;
-	height: 250px;
+	height: 200px;
 	padding: 10px;
 	grid-template-columns: 10px 1fr;
 	grid-template-rows: repeat(3, 1fr);

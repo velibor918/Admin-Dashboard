@@ -256,7 +256,8 @@ summary {
 
 .nav img,
 .branding img,
-.first img {
+.first img,
+.projects img {
 	height: 1.7rem;
 }
 

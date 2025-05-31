@@ -427,3 +427,12 @@ li {
 	grid-column: 1;
 	grid-row: 1 / -1;
 }
+
+.title {
+	align-self: end;
+	font-size: 1.3rem;
+}
+
+.project-text {
+	font-size: 1rem;
+}

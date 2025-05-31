@@ -431,6 +431,7 @@ li {
 .title {
 	align-self: end;
 	font-size: 1.3rem;
+	font-weight: 600;
 }
 
 .project-text {

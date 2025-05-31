@@ -418,4 +418,6 @@ li {
 	display: grid;
 	height: 250px;
 	padding: 10px;
+	grid-template-columns: 50px 1fr;
+	grid-template-rows: repeat(3, 1fr);
 }

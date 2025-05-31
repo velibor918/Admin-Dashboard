@@ -411,13 +411,13 @@ li {
 
 .project p {
 	margin: 0;
+	padding: 10px;
 }
 
 .projects .project {
 	background-color: white;
 	display: grid;
 	height: 200px;
-	padding: 10px;
 	grid-template-columns: 10px 1fr;
 	grid-template-rows: repeat(3, 1fr);
 }

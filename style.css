@@ -462,6 +462,7 @@ li {
 	display: grid;
 	padding: 15px;
 	gap: 20px;
+	grid-template-rows: 50px;
 }
 
 .ann-first {

@@ -457,3 +457,8 @@ li {
 .star {
 	grid-column: -5;
 }
+
+.announcements {
+	display: grid;
+	grid-template-rows: 100px;
+}

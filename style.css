@@ -460,5 +460,15 @@ li {
 
 .announcements {
 	display: grid;
-	grid-template-rows: 100px;
+	padding: 15px;
+	gap: 20px;
+}
+
+.ann-first {
+	background-color: white;
+}
+
+.announcements h4 {
+	margin: 0;
+	align-self: end;
 }

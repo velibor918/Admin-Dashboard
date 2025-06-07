@@ -479,6 +479,9 @@ li {
 .ann-title,
 .ann-text {
 	margin: 0;
+}
+
+.ann-title {
 	margin-top: 10px;
 }
 

@@ -504,4 +504,5 @@ li {
 
 .ann-second {
 	background-color: white;
+	display: grid;
 }

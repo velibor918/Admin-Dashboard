@@ -462,7 +462,7 @@ li {
 	display: grid;
 	padding: 15px;
 	gap: 20px;
-	grid-template-rows: 50px;
+	grid-template-rows: 50px 1fr 10px 1fr;
 }
 
 .ann-first {

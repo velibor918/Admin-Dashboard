@@ -467,7 +467,6 @@ li {
 
 .ann-first {
 	background-color: white;
-	height: max-content;
 	padding: 10px;
 	display: grid;
 	gap: 15px;

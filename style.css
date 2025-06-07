@@ -479,6 +479,12 @@ li {
 .ann-title,
 .ann-text {
 	margin: 0;
+	margin-top: 10px;
+}
+
+.ann-placeholder:first-child .ann-title  {
+	margin-top: 0;
+	color: rebeccapurple;
 }
 
 .ann-title {

@@ -462,7 +462,7 @@ li {
 	display: grid;
 	padding: 15px;
 	gap: 20px;
-	grid-template-rows: 50px 1fr 10px 1fr;
+	grid-template-rows: 50px max-content 10px max-content;
 }
 
 .ann-first {
@@ -505,4 +505,8 @@ li {
 .ann-second {
 	background-color: white;
 	display: grid;
+}
+
+.ann-second img {
+	height: 3rem;
 }

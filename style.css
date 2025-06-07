@@ -467,6 +467,8 @@ li {
 
 .ann-first {
 	background-color: white;
+	height: max-content;
+	padding: 10px;
 }
 
 .announcements h4 {

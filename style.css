@@ -505,6 +505,9 @@ li {
 .ann-second {
 	background-color: white;
 	display: grid;
+	grid-auto-rows: 3rem;
+	gap: 15px;
+	padding: 10px;
 }
 
 .ann-second img {
